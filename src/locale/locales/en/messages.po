@@ -2801,7 +2801,7 @@ msgstr ""
 msgid "Download CAR file"
 msgstr ""
 
-#: src/view/com/composer/text-input/TextInput.web.tsx:344
+#: src/view/com/composer/text-input/TextInput.web.tsx:363
 msgid "Drop to add images"
 msgstr ""
 
@@ -2853,8 +2853,8 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
-#: src/view/com/lists/ListMembers.tsx:180
-#: src/view/com/lists/ListMembers.tsx:186
+#: src/view/com/lists/ListMembers.tsx:187
+#: src/view/com/lists/ListMembers.tsx:193
 msgctxt "action"
 msgid "Edit"
 msgstr ""
@@ -5000,7 +5000,7 @@ msgstr ""
 msgid "Menu"
 msgstr ""
 
-#: src/components/dms/MessageProfileButton.tsx:96
+#: src/components/dms/MessageProfileButton.tsx:97
 msgid "Message {0}"
 msgstr ""
 
@@ -8617,7 +8617,7 @@ msgstr ""
 msgid "There was an issue fetching posts. Tap here to try again."
 msgstr ""
 
-#: src/view/com/lists/ListMembers.tsx:151
+#: src/view/com/lists/ListMembers.tsx:158
 msgid "There was an issue fetching the list. Tap here to try again."
 msgstr ""
 
